@@ -1,0 +1,27 @@
+* {
+    font-family: sans-serif;
+}
+#cloud {
+    color:aqua;
+}
+h1 {
+    color:rgb(253, 255, 255);
+    font-weight:bolder;
+    padding: 0 14px;
+    background-color: black;
+    margin: 7px;
+}
+h2 {color:aliceblue;
+    font-style: italic;
+    font-weight: 100;
+    background-color: blueviolet;
+    text-align: center;
+    margin: 7px;
+}
+h3 {color:rgb(10, 44, 73);
+    font-weight: lighter;
+    text-decoration: underline;
+    background-color: rgb(93, 199, 218);
+    text-align: right;
+    margin: 7px;
+}
